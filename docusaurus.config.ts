@@ -74,12 +74,25 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
+        {
+          type: 'dropdown',
+          label: 'AI Workshops',
+          position: 'left',
+          items: [
+            {
+              label: 'RAG Bot',
+              href: 'https://oceanbase-devhub.github.io/ai-workshop-2024',
+            },
+            {
+              label: 'Dify (MySQL Compatible)',
+              href: 'https://oceanbase-devhub.github.io/dify/dify@oceanbase-workshop',
+            },
+            {
+              label: 'DB-GPT',
+              href: 'https://oceanbase-devhub.github.io/DB-GPT/docker/compose_examples/ob_dbgpt_tutorial',
+            },
+          ],
+        },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/oceanbase-devhub',

@@ -18,8 +18,8 @@ In this workshop, attendees build a RAG chatbot that answers questions related t
 
 Events:
 
-- [Event](https://mp.weixin.qq.com/s/D_UNHvH2TgYkglfUC0P28Q) on 2024-10-23 in Beijing, China
-- [Event](https://mp.weixin.qq.com/s/XCYoM1ehwWyqHEiaYc2NXw) on 2024-11-23 in Guangzhou, China
+- [Event](https://mp.weixin.qq.com/s/D_UNHvH2TgYkglfUC0P28Q) in Beijing, China on 2024-10-23
+- [Event](https://mp.weixin.qq.com/s/XCYoM1ehwWyqHEiaYc2NXw) in Guangzhou, China on 2024-11-23
 
 ### Dify (MySQL Compatible)
 
@@ -29,4 +29,4 @@ Project link: [Dify](https://github.com/oceanbase-devhub/dify)
 
 Events:
 
-- [Event](https://mp.weixin.qq.com/s/DdjVKInPAOwqWEysuFpYHA) on 2024-12-07 in Shanghai, China
+- [Event](https://mp.weixin.qq.com/s/DdjVKInPAOwqWEysuFpYHA) in Shanghai, China on 2024-12-07
