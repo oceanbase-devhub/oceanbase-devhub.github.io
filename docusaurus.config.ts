@@ -117,7 +117,7 @@ const config: Config = {
             },
             {
               label: 'DB-GPT',
-              href: 'https://oceanbase-devhub.github.io/DB-GPT',
+              href: 'https://oceanbase-devhub.github.io/DB-GPT/docker/compose_examples/ob_dbgpt_tutorial',
             },
           ],
         },
