@@ -29,4 +29,14 @@ Project link: [Dify](https://github.com/oceanbase-devhub/dify)
 
 Events:
 
-- [Event](https://mp.weixin.qq.com/s/DdjVKInPAOwqWEysuFpYHA) in Shanghai, China on 2024-12-07
+- [Event](https://mp.weixin.qq.com/s/A2NO6QOGI19qLxJ01RdIuw) in Shanghai, China on 2024-12-07
+
+### DB-GPT
+
+DB-GPT is an AI native data app development framework with AWEL(Agentic Workflow Expression Language) and agents.
+
+Project link: [DB-GPT](https://github.com/oceanbase-devhub/DB-GPT)
+
+Events:
+
+- [Event](https://mp.weixin.qq.com/s/KO9qreE-K3K5dZDuJ8vl2w) in Chengdu, China on 2024-12-21
