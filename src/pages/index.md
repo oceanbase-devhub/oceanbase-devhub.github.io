@@ -30,6 +30,7 @@ Project link: [Dify](https://github.com/oceanbase-devhub/dify)
 Events:
 
 - [Event](https://mp.weixin.qq.com/s/A2NO6QOGI19qLxJ01RdIuw) in Shanghai, China on 2024-12-07
+- [Event](https://open.oceanbase.com/activities/4923176) in Beijing, China on 2024-01-11 (Signing up!)
 
 ### DB-GPT
 
@@ -39,4 +40,4 @@ Project link: [DB-GPT](https://github.com/oceanbase-devhub/DB-GPT)
 
 Events:
 
-- [Event](https://mp.weixin.qq.com/s/KO9qreE-K3K5dZDuJ8vl2w) in Chengdu, China on 2024-12-21
+- [Event](https://mp.weixin.qq.com/s/gE0uYZbJsuqYX_Q9CrmxNA) in Chengdu, China on 2024-12-21
